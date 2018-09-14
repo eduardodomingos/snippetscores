@@ -9,8 +9,7 @@ This workflow is based on [this course](https://www.lynda.com/WordPress-tutorial
 
 06. Get and install_s
 07. Install and explore WordPress Theme Unit Test data
-08. Install the Developer plugin and Show Current Template plugin
-08. Add `define('WP_DEBUG', true)` @ wp-config.php
+08. Install the Developer plugin and Show Current Template plugin. Add `define('WP_DEBUG', true)` @ wp-config.php.
 10.	Automate theme development with Gulp and various tools
 16. Configure the theme info
 17. Configure baseline settings and functions
